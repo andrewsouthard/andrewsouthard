@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Andrew 👋
 
 <!--
 **andrewsouthard/andrewsouthard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱
 -->
+💼 At Strava, I build progress features for millions of athletes in Rails and Scala. Recently our team shipped progress analysis to help athletes get a fuller picture of their performance over time.
+
+🗺️ In my free time, I’m exploring the intersection of UI/UX, LLMs and local first software. Check out my pinned repositories and [my blog](https://andrewsouthard.com/blog) to see what I'm up to!
+
+💡 I'm inspired by [Ink and Switch](https://www.inkandswitch.com/), [Simon Willison](https://simonwillison.net) and [Eugene Yan](https://eugeneyan.com/).
+
+📫 Interested in collaborating or connecting? Contact me on [LinkedIn](https://www.linkedin.com/in/andrewmsouthard/), I'd love to meet you.
